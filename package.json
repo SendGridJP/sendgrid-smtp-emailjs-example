@@ -1,0 +1,19 @@
+{
+  "name": "sendgrid-smtp-emailjs-example",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SendGridJP/sendgrid-smtp-emailjs-example.git"
+  },
+  "main": "task.js",
+  "description": "Example script using node.js library",
+  "dependencies": {
+    "dotenv": "0.4.0",
+    "emailjs": "0.3.12",
+    "smtpapi": "1.0.4"
+  }
+}
